@@ -1,0 +1,1 @@
+web: gunicorn vnavp.wsgi --log-file -
